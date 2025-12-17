@@ -1,4 +1,4 @@
-namespace MyApp.Backend
+namespace dotnet.Backend
 {
     public class WeatherForecast
     {

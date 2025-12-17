@@ -1,5 +1,5 @@
-using MyApp.Backend.Context;
-using MyApp.Backend.Extension;
+using dotnet.Backend.Context;
+using dotnet.Backend.Extension;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace MyApp.Backend.Context
+namespace dotnet.Backend.Context
 {
     public static class ModelBuilderExtension
     {

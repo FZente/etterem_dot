@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MyApp.Backend.Context;
+using dotnet.Backend.Context;
 
 #nullable disable
 
-namespace MyApp.Backend.Migrations
+namespace dotnet.Backend.Migrations
 {
     [DbContext(typeof(AppMySqlDbContext))]
     [Migration("20251203153212_Init")]

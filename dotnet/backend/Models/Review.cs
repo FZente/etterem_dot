@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MyApp.Backend.Models
+namespace dotnet.Backend.Models
 {
     public class Review
     {

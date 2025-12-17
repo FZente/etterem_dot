@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace MyApp.Backend.Context
+namespace dotnet.Backend.Context
 {
     /// <summary>
     ///     Az alkalmazás <b>memóriában futó (InMemory)</b> adatbázis-kontextusa,

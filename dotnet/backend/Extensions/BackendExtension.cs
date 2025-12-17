@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Cors.Infrastructure;
 using Microsoft.EntityFrameworkCore;
-using MyApp.Backend.Context;
+using dotnet.Backend.Context;
 
-namespace MyApp.Backend.Extension
+namespace dotnet.Backend.Extension
 {
     /// <summary>
     ///     Backend szolgáltatások regisztrációjáért felelős bővítő metódusok.
